@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/app.css">
   </head>
   <body>
-    <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+    <!-- <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle></button>
   <div class="title-bar-title">Menu</div>
 </div>
@@ -35,4 +35,4 @@
       <li><button type="button" class="button">Search</button></li>
     </ul>
   </div>
-</div>
+</div> -->

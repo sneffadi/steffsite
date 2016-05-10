@@ -13,14 +13,48 @@
             <li>Created as Git Repositories</li>
             <li>Created references plugin using JavaScript and PHP</li>
           </ul>
-          <p>Site examples:</p>
-          <ul>
-            <li><a href="http://topmaleenhancements.com/" target="_blank">TopMaleEnhancements.com</a></li>
-            <li><a href="http://www.dietpilluniverse.com/" target="_blank">DietPillUniverse.com</a></li>
-            <li><a href="http://naturalmaleenhancement.org/" target="_blank">NaturalMaleEnhancement.org</a></li>
-            <li><a href="http://consumerwrinklereviews.com/" target="_blank">ConsumerWrinkleReviews.com</a></li>
+          <ul class="accordion" data-accordion data-allow-all-closed="true">
+            <li class="accordion-item" data-accordion-item data-accordion >
+              <a href="#" class="accordion-title">Site Examples</a>
+              <div class="accordion-content" data-tab-content>
+                <ul>
+                  <li><a href="http://topmaleenhancements.com/" target="_blank">TopMaleEnhancements.com</a></li>
+                  <li><a href="http://topmaleenhancements.com/" target="_blank">TopMaleEnhancements.com</a></li>
+                  <li><a href="http://www.dietpilluniverse.com/" target="_blank">DietPillUniverse.com</a></li>
+                  <li><a href="http://naturalmaleenhancement.org/" target="_blank">NaturalMaleEnhancement.org</a></li>
+                  <li><a href="http://consumerwrinklereviews.com/" target="_blank">ConsumerWrinkleReviews.com</a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- ... -->
           </ul>
       </div> <!-- / .small-24 columns -->
+    </div>
+    <div class="row">
+      <div class="small-24 columns">
+        <h2>Non-WordPress Foundation Sites</h2>
+          <ul class="accordion" data-accordion data-allow-all-closed="true">
+            <li class="accordion-item" data-accordion-item data-accordion >
+              <a href="#" class="accordion-title">Site Examples</a>
+              <div class="accordion-content" data-tab-content>
+                <ul>
+                  <li><a href="http://xpisupplements.com/booty-academy/" target="_blank">Booty Academy Landing Page</a></li>
+                  <li><a href="http://colovexus.com/" target="_blank">Colovexus.com</a></li>
+                  <li><a href="http://veralyze.com/" target="_blank">Veralyze.com</a></li>
+                </ul>
+              </div>
+            </li>
+            <!-- ... -->
+          </ul>
+      </div> <!-- / .small-24 columns -->
+    </div>
+    <div class="row">
+      <div class="small-24 columns">
+        <h2>Other</h2>
+        <p>This site was coded and desgined by me:<br>
+        <a href="http://matthewjelalian.com/" target="_blank">MatthewJelalian.com</a></p>
+      </div>
+    </div>
   </div> <!-- / .portfolio -->
     
 
